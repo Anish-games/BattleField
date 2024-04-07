@@ -1,0 +1,687 @@
+﻿Log file open, 08/05/20 05:29:25
+LogPakFile: Display: Found Pak file ../../../SimpleShooter/Content/Paks/SimpleShooter-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../SimpleShooter/Content/Paks/SimpleShooter-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.418428
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jul 25 2020 02:13:35
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/WindowsNoEditor/SimpleShooter/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.04-23.59.27:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.04-23.59.27:186][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.04-23.59.27:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.04-23.59.27:218][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.04-23.59.27:218][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.04-23.59.27:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.04-23.59.27:220][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.08.04-23.59.27:220][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.08.04-23.59.27:220][  0]LogHAL: Display: Platform has ~ 8 GB [8449540096 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.04-23.59.27:220][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.08.04-23.59.27:220][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.04-23.59.27:220][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.04-23.59.27:220][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.04-23.59.27:221][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.04-23.59.27:222][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../SimpleShooter/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.08.04-23.59.27:222][  0]LogInit: Computer: VANITA1
+[2020.08.04-23.59.27:222][  0]LogInit: User: dell
+[2020.08.04-23.59.27:223][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.04-23.59.27:223][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.04-23.59.27:223][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.08.04-23.59.27:223][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.08.04-23.59.27:223][  0]LogMemory: Process Physical Memory: 65.67 MB used, 65.67 MB peak
+[2020.08.04-23.59.27:223][  0]LogMemory: Process Virtual Memory: 72.34 MB used, 72.34 MB peak
+[2020.08.04-23.59.27:223][  0]LogMemory: Physical Memory: 7095.50 MB used,  962.61 MB free, 8058.11 MB total
+[2020.08.04-23.59.27:223][  0]LogMemory: Virtual Memory: 4926.46 MB used,  134212800.00 MB free, 134217728.00 MB total
+[2020.08.04-23.59.27:299][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.04-23.59.29:808][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.04-23.59.29:808][  0]LogInit: Using OS detected language (en-US).
+[2020.08.04-23.59.29:809][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.04-23.59.29:809][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.04-23.59.30:314][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.04-23.59.30:314][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.04-23.59.30:356][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.04-23.59.30:356][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.04-23.59.30:356][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.04-23.59.30:356][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.04-23.59.30:530][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.08.04-23.59.30:530][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.04-23.59.30:710][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.04-23.59.30:710][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.04-23.59.30:710][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.04-23.59.30:718][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.04-23.59.30:718][  0]LogD3D11RHI:     GPU DeviceId: 0x5921 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.04-23.59.30:718][  0]LogWindows: EnumDisplayDevices:
+[2020.08.04-23.59.30:718][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.08.04-23.59.30:718][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.08.04-23.59.30:719][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.08.04-23.59.30:719][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.08.04-23.59.30:719][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.08.04-23.59.30:719][  0]LogD3D11RHI:   Driver Version: 26.20.100.7262 (internal:26.20.100.7262, unified:26.20.100.7262)
+[2020.08.04-23.59.30:719][  0]LogD3D11RHI:      Driver Date: 9-25-2019
+[2020.08.04-23.59.30:719][  0]LogRHI: Texture pool is 1499 MB (70% of 2142 MB)
+[2020.08.04-23.59.31:472][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.08.04-23.59.31:473][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.08.04-23.59.31:473][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.04-23.59.31:473][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.04-23.59.31:484][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.08.04-23.59.31:639][  0]LogShaderLibrary: Display: Using ../../../SimpleShooter/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2058 unique shaders.
+[2020.08.04-23.59.31:639][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2020.08.04-23.59.31:642][  0]LogTemp: Warning: Clearing the OS Cache
+[2020.08.04-23.59.31:645][  0]LogPakFile: New pak file ../../../SimpleShooter/Content/Paks/SimpleShooter-WindowsNoEditor.pak added to pak precacher.
+[2020.08.04-23.59.31:682][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.04-23.59.31:682][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.04-23.59.31:732][  0]LogMoviePlayer: Initializing movie player
+[2020.08.04-23.59.31:984][  0]LogShaderLibrary: Display: Using ../../../SimpleShooter/Content/ShaderArchive-SimpleShooter-PCD3D_SM5.ushaderbytecode for material shader code. Total 7054 unique shaders.
+[2020.08.04-23.59.31:984][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library SimpleShooter
+[2020.08.04-23.59.31:984][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2020.08.04-23.59.31:984][  0]LogRHI: Display: Failed to open default shader pipeline cache for SimpleShooter using shader platform 0.
+[2020.08.04-23.59.31:985][  0]LogInit: Using OS detected language (en-US).
+[2020.08.04-23.59.31:985][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.04-23.59.31:985][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2020.08.04-23.59.31:985][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2020.08.04-23.59.31:985][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.08.04-23.59.31:985][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.08.04-23.59.31:986][  0]LogTextLocalizationManager: Compacting localization data took   0.65ms
+[2020.08.04-23.59.32:008][  0]LogAssetRegistry: FAssetRegistry took 0.0217 seconds to start up
+[2020.08.04-23.59.32:124][  0]LogStreaming: Display: Flushing async loaders.
+[2020.08.04-23.59.32:124][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.000174 seconds
+[2020.08.04-23.59.32:130][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.08.04-23.59.32:148][  0]LogNetVersion: SimpleShooter 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1740914163)
+[2020.08.04-23.59.32:505][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.04-23.59.32:505][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.04-23.59.32:703][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001DA7C43D580), frame # 0
+[2020.08.04-23.59.32:703][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA225F3F80), frame # 0
+[2020.08.04-23.59.32:706][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA225D8400), frame # 0
+[2020.08.04-23.59.35:098][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.04-23.59.35:099][  0]LogOcInput: OculusInput pre-init called
+[2020.08.04-23.59.35:103][  0]LogUObjectArray: 14243 objects as part of root set at end of initial load.
+[2020.08.04-23.59.35:103][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2020.08.04-23.59.35:103][  0]LogUObjectAllocator: 2888424 out of 0 bytes used by permanent object pool.
+[2020.08.04-23.59.35:103][  0]LogUObjectArray: CloseDisregardForGC: 14243/14243 objects in disregard for GC pool
+[2020.08.04-23.59.35:117][  0]LogEngine: Initializing Engine...
+[2020.08.04-23.59.35:117][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.04-23.59.35:120][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.04-23.59.36:253][  0]LogPakFile: Precache HighWater 16MB
+
+[2020.08.04-23.59.36:253][  0]LogPakFile: Precache HighWater 32MB
+
+[2020.08.04-23.59.36:253][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.04-23.59.36:253][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.04-23.59.36:253][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.04-23.59.36:253][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.04-23.59.36:253][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.04-23.59.36:253][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.04-23.59.36:253][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.04-23.59.36:253][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.04-23.59.36:253][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.04-23.59.36:253][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.04-23.59.36:253][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.04-23.59.39:346][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.04-23.59.39:695][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.04-23.59.39:695][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.04-23.59.41:237][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.04-23.59.41:238][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.04-23.59.41:239][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.04-23.59.41:239][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.04-23.59.41:241][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.04-23.59.41:243][  0]LogInit: FAudioDevice initialized.
+[2020.08.04-23.59.41:245][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.04-23.59.41:245][  0]LogInit: Texture streaming: Enabled
+[2020.08.04-23.59.44:154][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.04-23.59.44:162][  0]LogInit: Display: Game Engine Initialized.
+[2020.08.04-23.59.44:163][  0]LogInit: Display: Starting Game.
+[2020.08.04-23.59.44:163][  0]LogNet: Browse: /Game/Menu?Name=Player
+[2020.08.04-23.59.44:163][  0]LogLoad: LoadMap: /Game/Menu?Name=Player
+[2020.08.04-23.59.44:163][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.08.04-23.59.44:483][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.04-23.59.44:484][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.04-23.59.44:859][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.08.05-00.00.14:361][  0]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.00.14:482][  0]LogPakFile: Precache HighWater 48MB
+
+[2020.08.05-00.00.14:482][  0]LogPakFile: Precache HighWater 64MB
+
+[2020.08.05-00.00.14:482][  0]LogPakFile: Precache HighWater 80MB
+
+[2020.08.05-00.00.14:482][  0]LogPakFile: Precache HighWater 96MB
+
+[2020.08.05-00.00.14:482][  0]LogPakFile: Precache HighWater 112MB
+
+[2020.08.05-00.00.14:482][  0]LogPakFile: Precache HighWater 128MB
+
+[2020.08.05-00.00.16:769][  0]LogAIModule: Creating AISystem for world Menu
+[2020.08.05-00.00.17:000][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA2174B400), frame # 0
+[2020.08.05-00.00.17:020][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA2DBF2540), frame # 0
+[2020.08.05-00.00.20:857][  0]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2020.08.05-00.00.25:291][  0]LogWorld: Bringing World /Game/Menu.Menu up for play (max tick rate 0) at 2020.08.05-05.30.25
+[2020.08.05-00.00.27:349][  0]LogWorld: Bringing up level for play took: 5.788346
+[2020.08.05-00.00.29:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-00.00.29:549][  0]LogUMG: Display: Widget Class MM_HUD_C - Loaded Fast Template.
+[2020.08.05-00.00.31:068][  0]LogUMG: Display: Widget Class WBP_HUD_C - Loaded Fast Template.
+[2020.08.05-00.00.32:186][  0]LogLoad: Took 47.948687 seconds to LoadMap(/Game/Menu)
+[2020.08.05-00.00.33:089][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-00.00.33:190][  0]LogSlate: Slate font cache was flushed
+[2020.08.05-00.00.35:173][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2020.08.05-00.00.35:214][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2020.08.05-00.00.35:214][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2020.08.05-00.00.35:230][  0]LogLoad: (Engine Initialization) Total time: 70.78 seconds
+[2020.08.05-00.00.40:800][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.05-00.00.42:593][  1]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:0).
+[2020.08.05-00.00.46:279][  1]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.00.46:279][  1]LogSlate: Took 0.029514 seconds to synchronously load lazily loaded font '../../../SimpleShooter/Content/UI/Font/UrbanJungleDEMO.ufont' (238K)
+[2020.08.05-00.00.46:305][  1]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../SimpleShooter/Content/UI/Font/Vampire_Wars.ufont' (68K)
+[2020.08.05-00.00.46:433][  1]LogSlate: Took 0.050987 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.08.05-00.00.51:744][  2]LogRenderer: Reallocating scene render targets to support 1368x768 Format 10 NumSamples 1 (Frame:1).
+[2020.08.05-00.01.19:461][  4]LogAudio: Display: Waited 35.507900 ms for audio thread.
+[2020.08.05-00.01.19:507][  4]LogAudio: Display: Waited 239.489594 ms for audio thread.
+[2020.08.05-00.01.19:542][  4]LogAudio: Display: Waited 274.632111 ms for audio thread.
+[2020.08.05-00.01.19:577][  4]LogAudio: Display: Waited 309.783295 ms for audio thread.
+[2020.08.05-00.01.19:613][  4]LogAudio: Display: Waited 345.650909 ms for audio thread.
+[2020.08.05-00.01.19:641][  4]LogAudio: Display: Waited 373.499084 ms for audio thread.
+[2020.08.05-00.01.19:771][  6]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.01.20:674][ 16]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.01.21:985][ 21]LogAudio: Display: Waited 35.860500 ms for audio thread.
+[2020.08.05-00.01.22:021][ 21]LogAudio: Display: Waited 71.777000 ms for audio thread.
+[2020.08.05-00.01.22:026][ 21]LogAudio: Display: Waited 76.811699 ms for audio thread.
+[2020.08.05-00.01.22:086][ 22]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.01.22:086][ 22]LogAudio: Display: Waited 35.858299 ms for audio thread.
+[2020.08.05-00.01.22:122][ 22]LogAudio: Display: Waited 71.737106 ms for audio thread.
+[2020.08.05-00.01.22:158][ 22]LogAudio: Display: Waited 107.657402 ms for audio thread.
+[2020.08.05-00.01.22:194][ 22]LogAudio: Display: Waited 143.556900 ms for audio thread.
+[2020.08.05-00.01.22:229][ 22]LogAudio: Display: Waited 178.897308 ms for audio thread.
+[2020.08.05-00.01.22:265][ 22]LogAudio: Display: Waited 214.329193 ms for audio thread.
+[2020.08.05-00.01.22:300][ 22]LogAudio: Display: Waited 249.742889 ms for audio thread.
+[2020.08.05-00.01.22:335][ 22]LogAudio: Display: Waited 285.135284 ms for audio thread.
+[2020.08.05-00.01.22:371][ 22]LogAudio: Display: Waited 320.814026 ms for audio thread.
+[2020.08.05-00.01.22:406][ 22]LogAudio: Display: Waited 355.982697 ms for audio thread.
+[2020.08.05-00.01.22:442][ 22]LogAudio: Display: Waited 391.223907 ms for audio thread.
+[2020.08.05-00.01.22:477][ 22]LogAudio: Display: Waited 426.247498 ms for audio thread.
+[2020.08.05-00.01.22:512][ 22]LogAudio: Display: Waited 461.719086 ms for audio thread.
+[2020.08.05-00.01.22:547][ 22]LogAudio: Display: Waited 496.713989 ms for audio thread.
+[2020.08.05-00.01.22:583][ 22]LogAudio: Display: Waited 532.711365 ms for audio thread.
+[2020.08.05-00.01.22:618][ 22]LogAudio: Display: Waited 567.756409 ms for audio thread.
+[2020.08.05-00.01.22:647][ 22]LogAudio: Display: Waited 596.737610 ms for audio thread.
+[2020.08.05-00.01.44:938][118]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.01.44:938][118]LogTaskGraph: Warning: Task graph took 298.21ms for RT to recieve broadcast.
+[2020.08.05-00.01.44:999][118]LogMemory: Warning: FMallocBinned2 took 241.69ms to wait for mutex AND trim.
+[2020.08.05-00.01.45:285][118]LogTaskGraph: Warning: Task graph took 298.21ms for Stats to recieve broadcast.
+[2020.08.05-00.01.45:285][118]LogTaskGraph: Warning: Task graph took 298.21ms for AudioT to recieve broadcast.
+[2020.08.05-00.01.45:285][118]LogMemory: Warning: FMallocBinned2 took 267.15ms to wait for mutex for trim.
+[2020.08.05-00.01.45:285][118]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.01.45:285][118]LogMemory: Warning: FMallocBinned2 took 339.20ms to wait for mutex for trim.
+[2020.08.05-00.01.45:285][118]LogMemory: Warning: FMallocBinned2 took 267.13ms to wait for mutex AND trim.
+[2020.08.05-00.01.45:285][118]LogMemory: Warning: FMallocBinned2 took 345.89ms to wait for mutex AND trim.
+[2020.08.05-00.01.45:285][118]LogTaskGraph: Warning: Task graph took 937.48ms for RT to recieve broadcast and do processing.
+[2020.08.05-00.01.45:285][118]LogTaskGraph: Warning: Task graph took 937.48ms for AudioT to recieve broadcast and do processing.
+[2020.08.05-00.01.45:285][118]LogMemory: Warning: FMallocBinned2 took 339.18ms to wait for mutex AND trim.
+[2020.08.05-00.01.45:285][118]LogTaskGraph: Warning: Task graph took 937.61ms for Stats to recieve broadcast and do processing.
+[2020.08.05-00.01.45:285][118]LogTaskGraph: Warning: Task graph took 286.15ms to wait for named thread broadcast.
+[2020.08.05-00.01.45:285][118]LogTaskGraph: Warning: Task graph took 937.94ms to broadcast.
+[2020.08.05-00.01.57:797][219]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.02.01:750][234]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.02.05:166][253]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.03.03:762][548]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.03.03:762][548]LogTaskGraph: Warning: Task graph took 976.02ms for Stats to recieve broadcast.
+[2020.08.05-00.03.06:415][548]LogTaskGraph: Warning: Task graph took 1001.98ms for RT to recieve broadcast.
+[2020.08.05-00.03.06:415][548]LogTaskGraph: Warning: Task graph took 1001.98ms for AudioT to recieve broadcast.
+[2020.08.05-00.03.06:415][548]LogMemory: Warning: FMallocBinned2 took 1484.96ms to wait for mutex AND trim.
+[2020.08.05-00.03.06:425][548]LogMemory: Warning: FMallocBinned2 took 1095.36ms to wait for mutex for trim.
+[2020.08.05-00.03.06:425][548]LogMemory: Warning: FMallocBinned2 took 1427.39ms to wait for mutex AND trim.
+[2020.08.05-00.03.06:425][548]LogMemory: Warning: FMallocBinned2 took 1427.40ms to wait for mutex for trim.
+[2020.08.05-00.03.06:425][548]LogMemory: Warning: FMallocBinned2 took 3927.66ms to wait for mutex AND trim.
+[2020.08.05-00.03.06:425][548]LogTaskGraph: Warning: Task graph took 5319.28ms for RT to recieve broadcast and do processing.
+[2020.08.05-00.03.06:425][548]LogMemory: Warning: FMallocBinned2 took 3927.72ms to wait for mutex for trim.
+[2020.08.05-00.03.06:425][548]LogMemory: Warning: FMallocBinned2 took 3927.77ms to wait for mutex AND trim.
+[2020.08.05-00.03.06:425][548]LogTaskGraph: Warning: Task graph took 5319.37ms for AudioT to recieve broadcast and do processing.
+[2020.08.05-00.03.06:425][548]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.03.06:425][548]LogTaskGraph: Warning: Task graph took 2819.02ms for Stats to recieve broadcast and do processing.
+[2020.08.05-00.03.06:425][548]LogTaskGraph: Warning: Task graph took 5329.21ms to broadcast.
+[2020.08.05-00.03.07:970][550]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.03.08:097][550]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.03.24:277][697]LogUMG: Display: Widget Class Pusse_HUD_C - Loaded Fast Template.
+[2020.08.05-00.03.39:466][728]LogMemory: Warning: FMallocBinned2 took  68.17ms to wait for mutex AND trim.
+[2020.08.05-00.03.39:466][728]LogTaskGraph: Warning: Task graph took  77.25ms for RT to recieve broadcast and do processing.
+[2020.08.05-00.03.39:466][728]LogTaskGraph: Warning: Task graph took  77.08ms to wait for named thread broadcast.
+[2020.08.05-00.03.39:466][728]LogTaskGraph: Warning: Task graph took  77.52ms to broadcast.
+[2020.08.05-00.03.44:032][740]PIE: Warning: The widget 'MM_HUD_C' was already added to the screen.
+[2020.08.05-00.03.44:033][740]PIE: Warning: The widget 'MM_HUD_C' was already added to the screen.
+[2020.08.05-00.03.44:033][740]LogNet: Browse: /Game/Sandbox?Name=Player
+[2020.08.05-00.03.44:244][740]LogLoad: LoadMap: /Game/Sandbox?Name=Player
+[2020.08.05-00.03.44:294][740]LogWorld: BeginTearingDown for /Game/Menu
+[2020.08.05-00.03.50:630][740]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.08.05-00.03.58:884][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.05-00.03.59:606][740]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.05-00.03.59:606][740]LogAudio: Display: Waited 69.703400 ms for audio thread.
+[2020.08.05-00.03.59:606][740]LogAudio: Display: Waited 382.444885 ms for audio thread.
+[2020.08.05-00.04.22:132][740]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA2174B400), frame # 740
+[2020.08.05-00.04.22:132][740]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA2DBF2540), frame # 740
+[2020.08.05-00.04.25:369][740]LogUObjectHash: Compacting FUObjectHashTables data took  49.09ms
+[2020.08.05-00.04.31:654][740]LogStreaming: Display: Flushing async loaders.
+[2020.08.05-00.05.47:651][740]LogAIModule: Creating AISystem for world Sandbox
+[2020.08.05-00.05.47:673][740]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA20CCAE00), frame # 740
+[2020.08.05-00.05.47:683][740]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA30F66500), frame # 740
+[2020.08.05-00.05.48:733][740]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2020.08.05-00.05.50:561][740]LogWorld: Bringing World /Game/Sandbox.Sandbox up for play (max tick rate 0) at 2020.08.05-05.35.50
+[2020.08.05-00.05.51:649][740]LogWorld: Bringing up level for play took: 2.771343
+[2020.08.05-00.05.52:773][740]LogUMG: Display: Widget Class WBP_HUD_C - Loaded Fast Template.
+[2020.08.05-00.05.53:713][740]LogLoad: Took 129.470317 seconds to LoadMap(/Game/Sandbox)
+[2020.08.05-00.05.54:604][740]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.05-00.05.56:564][740]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.937 s
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: 
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: Ensure condition failed: FMath::IsFinite(TexelFactor) [File:Runtime\Engine\Classes\Engine/TextureStreamingTypes.h] [Line: 96]
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: 
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: Stack: 
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff6510e1116 SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64f24718f SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64fbcac84 SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64fb7f76e SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64fb7ff04 SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64fb80406 SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64fb9af19 SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64f3441f6 SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64f33fe4b SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64f43e5d1 SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64b604990 SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64b616ffc SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64b6170ba SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff64b628350 SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ff650ccb51e SimpleShooter.exe!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ffff10f6fd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: [Callstack] 0x00007ffff21dcec1 ntdll.dll!UnknownFunction []
+[2020.08.05-00.05.56:569][740]LogOutputDevice: Error: 
+[2020.08.05-00.05.56:703][740]LogStats:                SubmitErrorReport -  0.000 s

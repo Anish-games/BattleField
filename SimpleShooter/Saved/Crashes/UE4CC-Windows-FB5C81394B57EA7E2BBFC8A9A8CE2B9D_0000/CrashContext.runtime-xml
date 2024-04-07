@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>43D56B6343E172649124CBA4F59734AE</ExecutionGuid>
+<CrashGUID>UE4CC-Windows-FB5C81394B57EA7E2BBFC8A9A8CE2B9D_0000</CrashGUID>
+<IsEnsure>true</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Ensure</CrashType>
+<ErrorMessage>Ensure condition failed: FMath::IsFinite(TexelFactor) [File:Runtime\Engine\Classes\Engine/TextureStreamingTypes.h] [Line: 96]
+
+Stack: 
+0x00007ff6510e1116 SimpleShooter.exe!UnknownFunction []
+0x00007ff64f24718f SimpleShooter.exe!UnknownFunction []
+0x00007ff64fbcac84 SimpleShooter.exe!UnknownFunction []
+0x00007ff64fb7f76e SimpleShooter.exe!UnknownFunction []
+0x00007ff64fb7ff04 SimpleShooter.exe!UnknownFunction []
+0x00007ff64fb80406 SimpleShooter.exe!UnknownFunction []
+0x00007ff64fb9af19 SimpleShooter.exe!UnknownFunction []
+0x00007ff64f3441f6 SimpleShooter.exe!UnknownFunction []
+0x00007ff64f33fe4b SimpleShooter.exe!UnknownFunction []
+0x00007ff64f43e5d1 SimpleShooter.exe!UnknownFunction []
+0x00007ff64b604990 SimpleShooter.exe!UnknownFunction []
+0x00007ff64b616ffc SimpleShooter.exe!UnknownFunction []
+0x00007ff64b6170ba SimpleShooter.exe!UnknownFunction []
+0x00007ff64b628350 SimpleShooter.exe!UnknownFunction []
+0x00007ff650ccb51e SimpleShooter.exe!UnknownFunction []
+0x00007ffff10f6fd4 KERNEL32.DLL!UnknownFunction []
+0x00007ffff21dcec1 ntdll.dll!UnknownFunction []
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>10764</ProcessId>
+<SecondsSinceStart>27</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE4-SimpleShooter</GameName>
+<ExecutableName>SimpleShooter</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>**UE4*Release-4.25-CL-13942748-Win64-Development</Symbols>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.25.3-13942748+++UE4+Release-4.25</EngineVersion>
+<CommandLine> SimpleShooter</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en-US</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.25-CL-13942748</BuildVersion>
+<IsUE4Release>false</IsUE4Release>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>D:/WindowsNoEditor/SimpleShooter/Binaries/Win64/</BaseDir>
+<RootDir>D:/WindowsNoEditor/</RootDir>
+<MachineId>97B7E4254226E37675E19BBFE3C432D4</MachineId>
+<LoginId>97b7e4254226e37675e19bbfe3c432d4</LoginId>
+<EpicAccountId>818e271a0d17421b8978ad1d4c88fd1d</EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>2</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 620</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10 (Release 2004)</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>8449540096</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>4147458048</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140730072887296</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>1407107072</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>2007851008</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>1393717248</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>2003738624</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+SimpleShooter  0x000000004af40000 + 61a1116 
+SimpleShooter  0x000000004af40000 + 430718f 
+SimpleShooter  0x000000004af40000 + 4c8ac84 
+SimpleShooter  0x000000004af40000 + 4c3f76e 
+SimpleShooter  0x000000004af40000 + 4c3ff04 
+SimpleShooter  0x000000004af40000 + 4c40406 
+SimpleShooter  0x000000004af40000 + 4c5af19 
+SimpleShooter  0x000000004af40000 + 44041f6 
+SimpleShooter  0x000000004af40000 + 43ffe4b 
+SimpleShooter  0x000000004af40000 + 44fe5d1 
+SimpleShooter  0x000000004af40000 + 6c4990  
+SimpleShooter  0x000000004af40000 + 6d6ffc  
+SimpleShooter  0x000000004af40000 + 6d70ba  
+SimpleShooter  0x000000004af40000 + 6e8350  
+SimpleShooter  0x000000004af40000 + 5d8b51e 
+KERNEL32       0x00000000f10e0000 + 16fd4   
+ntdll          0x00000000f2190000 + 4cec1   
+</PCallStack>
+<PCallStackHash>AFB3820C56537E33660CBB6865CAEE6B98A4ADEF</PCallStackHash>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>true</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>Intel(R) HD Graphics 620</RHI.AdapterName>
+<RHI.UserDriverVersion>26.20.100.7262</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>26.20.100.7262</RHI.InternalDriverVersion>
+<RHI.DriverDate>9-25-2019</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<Platform.AppHasFocus>true</Platform.AppHasFocus>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>

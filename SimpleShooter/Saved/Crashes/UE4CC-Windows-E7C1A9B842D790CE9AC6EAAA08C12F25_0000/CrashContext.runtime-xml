@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>1A6FD8DE4429183393CE41BCD20A0888</ExecutionGuid>
+<CrashGUID>UE4CC-Windows-E7C1A9B842D790CE9AC6EAAA08C12F25_0000</CrashGUID>
+<IsEnsure>true</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Ensure</CrashType>
+<ErrorMessage>Ensure condition failed: FMath::IsFinite(TexelFactor) [File:Runtime\Engine\Classes\Engine/TextureStreamingTypes.h] [Line: 96]
+
+Stack: 
+0x00007ff7c4d31116 SimpleShooter.exe!UnknownFunction []
+0x00007ff7c2e9718f SimpleShooter.exe!UnknownFunction []
+0x00007ff7c381ac84 SimpleShooter.exe!UnknownFunction []
+0x00007ff7c37cf76e SimpleShooter.exe!UnknownFunction []
+0x00007ff7c37cff04 SimpleShooter.exe!UnknownFunction []
+0x00007ff7c37d0406 SimpleShooter.exe!UnknownFunction []
+0x00007ff7c37eaf19 SimpleShooter.exe!UnknownFunction []
+0x00007ff7c2f941f6 SimpleShooter.exe!UnknownFunction []
+0x00007ff7c2f8fe4b SimpleShooter.exe!UnknownFunction []
+0x00007ff7c308e5d1 SimpleShooter.exe!UnknownFunction []
+0x00007ff7bf254990 SimpleShooter.exe!UnknownFunction []
+0x00007ff7bf266ffc SimpleShooter.exe!UnknownFunction []
+0x00007ff7bf2670ba SimpleShooter.exe!UnknownFunction []
+0x00007ff7bf278350 SimpleShooter.exe!UnknownFunction []
+0x00007ff7c491b51e SimpleShooter.exe!UnknownFunction []
+0x00007ffd425d7034 KERNEL32.DLL!UnknownFunction []
+0x00007ffd42822651 ntdll.dll!UnknownFunction []
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>14092</ProcessId>
+<SecondsSinceStart>47</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE4-SimpleShooter</GameName>
+<ExecutableName>SimpleShooter</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>**UE4*Release-4.25-CL-13942748-Win64-Development</Symbols>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.25.3-13942748+++UE4+Release-4.25</EngineVersion>
+<CommandLine> SimpleShooter</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en-US</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.25-CL-13942748</BuildVersion>
+<IsUE4Release>false</IsUE4Release>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>E:/PRO/BattleField/SimpleShooter/Binaries/Win64/</BaseDir>
+<RootDir>E:/PRO/BattleField/</RootDir>
+<MachineId>E1041CB44A6685569FEC8AAE3DA52157</MachineId>
+<LoginId>e1041cb44a6685569fec8aae3da52157</LoginId>
+<EpicAccountId>818e271a0d17421b8978ad1d4c88fd1d</EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>6</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>12</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 1650</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>17055731712</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>9358024704</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140729051795456</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>826204160</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>829378560</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>2568925184</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>2660397056</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+SimpleShooter  0x00000000beb90000 + 61a1116 
+SimpleShooter  0x00000000beb90000 + 430718f 
+SimpleShooter  0x00000000beb90000 + 4c8ac84 
+SimpleShooter  0x00000000beb90000 + 4c3f76e 
+SimpleShooter  0x00000000beb90000 + 4c3ff04 
+SimpleShooter  0x00000000beb90000 + 4c40406 
+SimpleShooter  0x00000000beb90000 + 4c5af19 
+SimpleShooter  0x00000000beb90000 + 44041f6 
+SimpleShooter  0x00000000beb90000 + 43ffe4b 
+SimpleShooter  0x00000000beb90000 + 44fe5d1 
+SimpleShooter  0x00000000beb90000 + 6c4990  
+SimpleShooter  0x00000000beb90000 + 6d6ffc  
+SimpleShooter  0x00000000beb90000 + 6d70ba  
+SimpleShooter  0x00000000beb90000 + 6e8350  
+SimpleShooter  0x00000000beb90000 + 5d8b51e 
+KERNEL32       0x00000000425c0000 + 17034   
+ntdll          0x00000000427d0000 + 52651   
+</PCallStack>
+<PCallStackHash>AFB3820C56537E33660CBB6865CAEE6B98A4ADEF</PCallStackHash>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>false</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce GTX 1650</RHI.AdapterName>
+<RHI.UserDriverVersion>512.59</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>30.0.15.1259</RHI.InternalDriverVersion>
+<RHI.DriverDate>4-20-2022</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<Platform.AppHasFocus>true</Platform.AppHasFocus>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>
