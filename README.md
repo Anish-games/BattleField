@@ -1,1 +1,8 @@
-
+Developed a 3D TPP (third-person perspective) shooting game using an agile development process.
+Designed the character model required for the game using raw blueprints from the Unreal marketplace. Used Unreal animator to give the character different physical activities.
+Implemented character physics for realistic movements. This includes jumping, moving forward, and sideways movements. Used a Physic Material with anisotropic friction to allow different friction values for forward or sideways motion.
+Added more animations for different actions such as jumping, moving forward, backward, left, and right. Also added animations for aiming at different angles.
+Implemented a recoil effect when a player fires shots on enemy AI. The direction of the recoil depends on the angle from which the enemy AI is shot.
+Created and managed a camera to follow the player’s movements around the battlefield. The camera view is from a third-person perspective; that is, behind and slightly above the player.
+Developed a basic camera script to position the main camera above and behind the player. The script sets up variables for height, distance, and target. It uses the Late Update function to ensure that this particular script runs after any other scripts that are run during a frame. The script gets the position and direction of the player to position itself and places itself a specific distance and height behind the target using variables. The camera is then rotated to always look at the target.
+Implemented a server-side rewind algorithm that ensures players always get credit for their hits even in high lag situations. This is done by storing a history of player information and rewinding time on the server to verify hits, giving players credit whenever they score a valid hit on their machine. This works on hitscan weapons and projectiles.
